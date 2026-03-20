@@ -67,5 +67,5 @@ function comprovarcodigo(pista) {
 
 window.onload = function() {
     codigosecreto = generarcodigosecreto(); //generamos el codigo secreto  al iniciar el juego
-    console.log(codigosecreto); //esto se mostrara para pruebas en el juego real se ocultaria
+    console.log(codigosecreto); //esto se mostrara para pruebas en el juego real se ocultaria.
 }
