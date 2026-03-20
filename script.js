@@ -38,7 +38,7 @@ function logTerminal(missatge, tipus) {
   terminal.appendChild(linia);
 }
 
-//Escoltar el clic del botó "Executar Codi", recollir els valors dels 4 selects i cridar a la lògica de comparació.
+//Escoltar el clic del botó "Executar Codi", recollir els valors dels 4 selects i cridar a la lògica de comparació..
 
 function gestorEsdeveniments() {
     const boto = document.getElementById('execute-btn'); // el id del botón
