@@ -93,4 +93,4 @@ Perquè permet treballar en paral·lel en diferents funcionalitats sense que els
 És un llenguatge molt senzill de llegir tant en text pla com renderitzat (amb negretes, llistes, imatges i codi), i és l'estàndard universal en el món del desenvolupament.
 
 **Com pot ajudar la documentació a altres desenvolupadors que volen utilitzar o modificar el projecte?**
-Estalvia temps, evita preguntes repetitives i servei de guia per mantenir un estil de codi coherent i seguir els passos de configuració sense errors.
+Estalvia temps, evita preguntes repetitives i servei de guia per mantenir un estil de codi coherent i seguir els passos de configuració sense errors
